@@ -1,0 +1,3 @@
+[submodule "libxduauth/async-libxduauth"]
+	path = libxduauth/async-libxduauth
+	url = https://github.com/Blindinlights-cc/async-libxduauth.git
